@@ -21,10 +21,10 @@ source-code: https://melissarogalski.github.io/Art-of-Gandhara/
 #title of site appears in banner
 title: Buddhist Art from Gandhara
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digitalized collection of buddhist art from Gandhara in a German mission museum
+tagline: A categorization process ofour churches visited around Europe 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "What exactly is the region of Gandhara? And how is it connected with Buddhism? How do 13 objects from there end up in a German mission museum, and what do they tell us about Buddhism, the history of the museum and Gandhara? This & more will be explored in this blog with the digitalisation of those objects."
+description: "Mostly medieval churches & wall paintings. Based in Germany"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Melissa Rogalski
 
