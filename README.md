@@ -1,1 +1,1 @@
-Das älteste Manuskript der Plantinen-Moretus—Sedulius Carmen Paschale, oder auch: Wieso ich in einem Seminar über den Buchdruck gerade über eine 1200 Jahre karolingische Handschrift schreibe.
+Welcome to our little project – a way of categorizing and sharing the great churches we have visited around Europe.
